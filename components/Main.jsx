@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import React from 'react';
 import { FaLinkedinIn, FaGithub } from 'react-icons/fa';
 import { AiOutlineMail } from 'react-icons/ai';
